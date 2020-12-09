@@ -32,12 +32,6 @@
 	<br>
 </div>
 
----
-
-A friend of mine [@ehmicky](https://github.com/ehmicky) is looking for a senior/expert Node.js backend engineer to join their fully remote, international, diverse (44% women and non-binary) and friendly team at Netlify. The job description is [here](https://boards.greenhouse.io/netlify/jobs/4832483002).
-
----
-
 ## Contents
 
 - [Packages](#packages)
@@ -512,6 +506,7 @@ A friend of mine [@ehmicky](https://github.com/ehmicky) is looking for a senior/
 - [property-validator](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
 - [schema-inspector](https://github.com/Atinux/schema-inspector) - JSON API sanitization and validation.
 - [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema validator. Supports v5, v6 and v7 proposals.
+- [Superstruct](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
 
 ### Parsing
 
@@ -803,6 +798,7 @@ A friend of mine [@ehmicky](https://github.com/ehmicky) is looking for a senior/
 - [genepi](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
 - [husky](https://github.com/typicode/husky) - Create Git hook scripts.
 - [patch-package](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
+- [editly](https://github.com/mifi/editly) - Declarative video editing API.
 
 ## Resources
 
